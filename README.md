@@ -1,2 +1,2 @@
-# Learning_2018
+# JustStarting
 Getting our feet wet with GitHub
